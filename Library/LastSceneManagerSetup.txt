@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chapter 10/Scenes/heatmap.unity
+  isLoaded: 1
+  isActive: 1

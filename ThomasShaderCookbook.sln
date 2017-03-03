@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThomasShaderCookbook.Plugins", "ThomasShaderCookbook.Plugins.csproj", "{98A04908-A1C5-8179-9885-C63624F0FD00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThomasShaderCookbook", "ThomasShaderCookbook.csproj", "{676C37CD-A124-C267-85C8-D662A1BD43B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThomasShaderCookbook.Editor", "ThomasShaderCookbook.Editor.csproj", "{C3CF8539-FEDB-989D-69EB-DE07E13E4B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A04908-A1C5-8179-9885-C63624F0FD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A04908-A1C5-8179-9885-C63624F0FD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A04908-A1C5-8179-9885-C63624F0FD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A04908-A1C5-8179-9885-C63624F0FD00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676C37CD-A124-C267-85C8-D662A1BD43B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676C37CD-A124-C267-85C8-D662A1BD43B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676C37CD-A124-C267-85C8-D662A1BD43B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676C37CD-A124-C267-85C8-D662A1BD43B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CF8539-FEDB-989D-69EB-DE07E13E4B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CF8539-FEDB-989D-69EB-DE07E13E4B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CF8539-FEDB-989D-69EB-DE07E13E4B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CF8539-FEDB-989D-69EB-DE07E13E4B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
